@@ -75,10 +75,10 @@ git clone https://github.com
 
 # Install dependencies
 pip install tqdm sympy matplotlib.
-
+```
 ---
 
-## Author
+##Author
 **Krishna** — Experimenting with Perfect Numbers and researching the most efficient methods for primality testing.
 
 
