@@ -76,5 +76,9 @@ git clone https://github.com
 # Install dependencies
 pip install tqdm sympy matplotlib
 
+
+---
+
 ## Author
 Krishna — experimenting with Perfect Number and finding which method is best to find prime number.
+
