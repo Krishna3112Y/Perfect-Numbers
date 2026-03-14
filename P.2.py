@@ -3,7 +3,7 @@ all_divisors_nested = []
 all_divisor_sums = []
 
 # Iterate through numbers from 1 to 100
-for number in range(1, 101):
+for number in range(33550336, 33560000):
     divisors = []
     divisor_sum = 0
     # Find divisors for the current number
