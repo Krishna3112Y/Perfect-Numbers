@@ -1,6 +1,13 @@
 
 # ♾️ The Perfect Number Research Archive
 
+### 📝 Project Note
+*   **Original Research:** This project was originally developed in **March 2024**.
+*   **Restoration:** These files were restored and archived on GitHub in **2026** to preserve the research.
+*   **Documentation:** This README and the file mappings were generated with the assistance of **AI**. While every effort was made to categorize the logic accurately, some minor mismatches in file mapping or descriptions may exist compared to the original 2024 intent.
+
+Thank you for visiting the archive!
+
 A comprehensive collection of algorithms and mathematical proofs dedicated to the discovery, verification, and visualization of **Perfect Numbers** and **Mersenne Primes**. This repository spans the evolution of number theory research, from classic trial division to high-performance deterministic tests like Lucas-Lehmer and AKS.
 
 ## 📂 Repository Structure
@@ -69,3 +76,5 @@ git clone https://github.com
 # Install dependencies
 pip install tqdm sympy matplotlib
 
+## Author
+Krishna — experimenting with Perfect Number and finding which method is best to find prime number.
