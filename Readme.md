@@ -74,11 +74,11 @@ Most scripts require standard Python 3.x. Advanced UI features require `tqdm`.
 git clone https://github.com
 
 # Install dependencies
-pip install tqdm sympy matplotlib
-
+pip install tqdm sympy matplotlib.
 
 ---
 
 ## Author
-Krishna — experimenting with Perfect Number and finding which method is best to find prime number.
+**Krishna** — Experimenting with Perfect Numbers and researching the most efficient methods for primality testing.
+
 
